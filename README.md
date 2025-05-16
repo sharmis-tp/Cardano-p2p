@@ -23,7 +23,7 @@ be found [here](./Benchmarks/).
 
 ## Abstract
 
-Cardano-Swaps is a p2p-DeFi protocol for swapping fungible tokens on the Cardano Settlement Layer
+Cardano-p2p is a p2p-DeFi protocol for swapping fungible tokens on the Cardano Settlement Layer
 (CSL). It solves many of the pitfalls of current DEX implementations by empowering users to deploy
 their own (and interact with each others') script addresses. This leads to the formation of an
 order-book style "distributed" DEX. The protocol supports two kinds of swaps: one-way swaps and
