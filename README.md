@@ -1,4 +1,4 @@
-# Cardano-Swaps
+# Cardano-p2p
 
 A [p2p-DeFi protocol](https://github.com/zhekson1/CSL-DeFi-Protocols) for trustlessly swapping
 fungible tokens on the Cardano Settlement Layer. All users maintain full custody, delegation
